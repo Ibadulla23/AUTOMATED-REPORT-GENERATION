@@ -22,3 +22,5 @@ Data Collection: Data is gathered from various sources such as APIs, databases, 
 Data Processing: The collected data is cleaned, formatted, and analyzed. Depending on the report type, this may include generating summaries, statistics, visualizations (charts/graphs), or detecting trends and anomalies.
 
 Report Creation: The processed data is compiled into a well-structured document—usually in formats like PDF, Excel, HTML, or even interactive dashboards. Tools like Python (with libraries such as pandas, matplotlib, Jinja2, and ReportLab) are often used for this purpose.
+
+"OUTPUT"       : <img width="1835" height="720" alt="Image" src="https://github.com/user-attachments/assets/7934ac7b-f41e-4bc5-b82a-a250f5147426" />
